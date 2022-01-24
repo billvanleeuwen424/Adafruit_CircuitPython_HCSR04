@@ -2,7 +2,7 @@ Introduction
 ============
 
 .. image:: https://readthedocs.org/projects/adafruit-circuitpython-hcsr04/badge/?version=latest
-    :target: https://circuitpython.readthedocs.io/projects/hcsr04/en/latest/
+    :target: https://docs.circuitpython.org/projects/hcsr04/en/latest/
     :alt: Documentation Status
 
 .. image:: https://img.shields.io/discord/327254708534116352.svg
@@ -82,12 +82,12 @@ There are two ways of instantiating a `HCSR04` object: with or without using a c
 
 See Also:
 
-    `Adafruit's guide on Lifetime and ContextManagers <https://circuitpython.readthedocs.io/en/latest/docs/design_guide.html#lifetime-and-contextmanagers>`_
+    `Adafruit's guide on Lifetime and ContextManagers <https://docs.circuitpython.org/en/latest/docs/design_guide.html#lifetime-and-contextmanagers>`_
         Gives more info on using context managers with CircuitPython drivers.
 
-    `board <https://circuitpython.readthedocs.io/en/latest/shared-bindings/board/__init__.html#module-board>`_
+    `board <https://docs.circuitpython.org/en/latest/shared-bindings/board/__init__.html#module-board>`_
         A list of pins available on your device. To view this list, first `get a REPL
-        <http://circuitpython.readthedocs.io/en/latest/docs/pyboard/tutorial/repl.html>`_ (the guide linked was written
+        <http://docs.circuitpython.org/en/latest/docs/pyboard/tutorial/repl.html>`_ (the guide linked was written
         for the pyboard, but it still works), then input the following:
 
         .. code-block:: python
@@ -139,7 +139,7 @@ us.
 Documentation
 =============
 
-API documentation for this library can be found on `Read the Docs <https://circuitpython.readthedocs.io/projects/hcsr04/en/latest/>`_.
+API documentation for this library can be found on `Read the Docs <https://docs.circuitpython.org/projects/hcsr04/en/latest/>`_.
 
 Contributing
 ============
