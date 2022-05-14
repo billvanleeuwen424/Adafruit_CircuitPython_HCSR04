@@ -13,7 +13,7 @@ Introduction
     :target: https://github.com/adafruit/Adafruit_CircuitPython_HCSR04/actions
     :alt: Build Status
 
-.. image:: ../docs/_static/3942-02.jpg
+.. image:: docs/_static/3942-02.jpg
     :alt: HC-SR04 Product Image
 
 The HC-SR04 is an inexpensive solution for measuring distances using microcontrollers. This library provides a simple
